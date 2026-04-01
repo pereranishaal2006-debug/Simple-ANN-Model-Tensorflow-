@@ -21,3 +21,6 @@ Use the model to make predictions or continue training.
 Notes
 
 This project is intended for educational and learning purposes.
+
+Run the project here:
+https://colab.research.google.com/drive/1Q2UrlWzzfRlC7yM_UyovyIfKmHTr-qdv?usp=sharing
